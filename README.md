@@ -17,7 +17,6 @@
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
-
 ## General Information
 - Our project was designed to analyze financial budget records stored in a CSV file. 
 - The project solves the problem of efficiently analyzing these records by writing a Python script in Jupyter Notebook that automates the importing of this CSV file and the analysis of the budget records.   
@@ -29,18 +28,9 @@
 - Jupyter Notebook within Jupyter Lab IDE
 - VS Code for README.MD markdown file
 
-
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
 
 ## Setup
 - GitHub Repository
@@ -80,36 +70,20 @@ The final printed code output for analysis of the budget_data.csv looks like thi
 
 `Sep-2013 ($-2,196,167)`
 
-
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
+Project is: _complete_
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
-
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+- Columbia Engineering FinTech Bootcamp June 2023 Virtual Part-Time Cohort
+- Many thanks to all my teachers and classmates.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Todd C. Meier, tmeier@bozcompany.com - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+<!-- ## License --> All rights reserved.
